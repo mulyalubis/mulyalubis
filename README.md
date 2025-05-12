@@ -30,5 +30,3 @@ Here are some ideas to get you started:
 [![my sosial media](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/mulya.lubis3/)
 
 <img src="https://raw.githubusercontent.com/mulyalubis/mulyalubis/output/snake.svg" alt="Snake animation" />
-
-###
