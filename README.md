@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### My github Stats 😭
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulyalubis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)
+![mulyalubis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulyalubis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)
 
 #### My Current Skills
 
