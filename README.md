@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 [![my sosial media](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/mulya.lubis3/)
 
+#### My github Stats 😭
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulyalubis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=shadow_green)
+
 <img src="https://raw.githubusercontent.com/mulyalubis/mulyalubis/output/snake.svg" alt="Snake animation" />
 
 ###
