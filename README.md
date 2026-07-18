@@ -1,6 +1,7 @@
 ## Hello Everything, I'm Mulya Yustisio Lubis
 
-I'm still a beginner in web development and I'm also an IT student.
+Junior Mobile Developer | Junior Frontend Developer
+Building mobile and web applications with React Native, Expo, React.Js, Ts and modern JavaScript technologies.
 
 <!--
 **mulyalubis/mulyalubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
