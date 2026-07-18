@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### My Current Skills
 
-[![my current skills](https://skillicons.dev/icons?i=html,css,js&perline=3&theme=dark)](https://skillicons.dev)
+[![my current skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts&perline=3&theme=dark)](https://skillicons.dev)
 
 #### Sosial Media
 
