@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### My github Stats 😭
-
-![mulyalubis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulyalubis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)
-
 #### My Current Skills
 
 [![my current skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts&perline=3&theme=dark)](https://skillicons.dev)
